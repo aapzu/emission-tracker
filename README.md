@@ -12,3 +12,7 @@ This repository only combines the UI and API of the app. The actual source code 
   - API: https://github.com/aapzu/reaktor-2019-server
   - UI: https://github.com/aapzu/reaktor-2019-ui
   
+## How to
+Better instructions can be found from the actual source repositories. But if you want to clone them both and use the app via this repo you can run:
+ - `git clone git@github.com/aapzu/reaktor-2019`
+ - `git submodule init`  
