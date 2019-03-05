@@ -1,0 +1,6 @@
+[submodule "reaktor-2019-ui"]
+	path = reaktor-2019-ui
+	url = git@github.com:aapzu/reaktor-2019-ui
+[submodule "reaktor-2019-server"]
+	path = reaktor-2019-server
+	url = git@github.com:aapzu/reaktor-2019-server
