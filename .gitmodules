@@ -1,6 +1,6 @@
-[submodule "emission-tracker-ui"]
-	path = emission-tracker-ui
-	url = git@github.com:aapzu/emission-tracker-ui
 [submodule "emission-tracker-api"]
 	path = emission-tracker-api
 	url = git@github.com:aapzu/emission-tracker-api
+[submodule "emission-tracker-ui"]
+	path = emission-tracker-ui
+	url = git@github.com:aapzu/emission-tracker-ui
