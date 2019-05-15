@@ -1,6 +1,6 @@
-[submodule "reaktor-2019-ui"]
-	path = reaktor-2019-ui
-	url = git@github.com:aapzu2/reaktor-2019-ui
-[submodule "reaktor-2019-server"]
-	path = reaktor-2019-server
-	url = git@github.com:aapzu2/reaktor-2019-server
+[submodule "emission-tracker-ui"]
+	path = emission-tracker-ui
+	url = git@github.com:aapzu/emission-tracker-ui
+[submodule "emission-tracker-api"]
+	path = emission-tracker-api
+	url = git@github.com:aapzu/emission-tracker-api
